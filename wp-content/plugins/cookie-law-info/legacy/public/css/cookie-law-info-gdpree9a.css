@@ -249,7 +249,7 @@
 	border: 1px solid #0070ad;
 }
 .nav.gdpr-nav-pills .gdpr-nav-link.active {
-	color: #ffffff;
+	color: #000000;
 }
 .gdpr-tab-content .gdpr-button-wrapper {
 	padding-top: 30px;
@@ -259,7 +259,7 @@
 .gdpr-tab-content .gdpr-button-wrapper .btn-gdpr {
 	background-color: #0070ad;
 	border-color: #0070ad;
-	color: #ffffff;
+	color: #000000;
 	font-size: 14px;
 	display: inline-block;
 	font-weight: 400;
@@ -520,7 +520,7 @@
 	border-radius: 50%;
 }
 .cli-tab-content {
-background: #ffffff;
+background: #000000;
 }
 .cli-tab-content>.cli-active {
 	display: block;
@@ -566,7 +566,7 @@ background: #ffffff;
 	border: 1px solid #00acad;
 }
 .cli-nav-pills .cli-nav-link.cli-active {
-	color: #ffffff;
+	color: #000000;
 }
 .cli-tab-content .cli-button-wrapper {
 	padding-top: 30px;
@@ -811,7 +811,7 @@ background: #ffffff;
 	border-radius: 50%;
 }
 .cli-tab-content {
-background: #ffffff;
+background: #000000;
 }
 .cli-nav-pills {
 	display: -ms-flexbox;
@@ -934,7 +934,7 @@ color:inherit;
 }
 .cli-tab-footer .wt-cli-privacy-accept-btn {
 	background-color: #61a229;
-	color: #ffffff;
+	color: #000000;
 	border-radius: 0;
 }
 
